@@ -1,0 +1,2 @@
+# Requires: meta-latency
+# (Not available on PyPI)
